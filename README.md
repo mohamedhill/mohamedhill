@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Backend & Systems Developer from Morocco 🇲🇦
+Full stack devlopper from Morocco 🇲🇦
 </h3>
 
 <p align="center">
