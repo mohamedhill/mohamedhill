@@ -97,7 +97,6 @@ I'm a Full Stack Developer passionate about building scalable applications and e
 
 # 🐍 Contribution Snake
 
-> **Requires the GitHub Action to generate the snake.**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohamedhill/mohamedhill/output/github-contribution-grid-snake-dark.svg"/>
