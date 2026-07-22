@@ -51,19 +51,29 @@ I'm a Full Stack Developer passionate about building scalable applications and e
 
 <p align="center">
 
-<a href="https://linkedin.com/in/mohamed-hilli-9978b7373">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://myportfolio-delta-eight-43.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/mohamed-hilli-9978b7373" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:mohammedhilli161@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/mohamedhill">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://wa.me/212645735169" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://github.com/mohamedhill" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
+
+
 
 ---
 
