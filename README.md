@@ -44,7 +44,7 @@ I'm a developer passionate about building scalable backend systems and exploring
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,kubernetes,redis,nginx"/>
+<img src="https://skillicons.dev/icons?i=rust,kubernetes,redis,sql"/>
 
 </p>
 
