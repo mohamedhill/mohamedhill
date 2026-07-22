@@ -73,17 +73,6 @@ I'm a Full Stack Developer passionate about building scalable applications and e
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=700&color=00FF7F&center=true&vCenter=true&width=900&lines=SYSTEMS+%3E+CODE+%3E+IMPACT"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedhill&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhill&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
 
 ---
 
@@ -108,14 +97,6 @@ I'm a Full Stack Developer passionate about building scalable applications and e
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhill&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedhill&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
 </p>
 
 ---
