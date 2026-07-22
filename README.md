@@ -1,81 +1,145 @@
-# 👋 Hi, I'm Mohammed Hilli
+<h1 align="center">
+  Hi 👋, I'm <a href="https://github.com/mohamedhill">Mohammed Hilli</a>
+</h1>
 
-🎯 Talent at [Zone01 Oujda](https://zone01oujda.ma)  
-💻 Backend & Systems Developer focused on building scalable, efficient software  
-🚀 Currently exploring system programming, distributed systems, and software architecture  
-🌍 Based in Morocco | Open to internships, remote opportunities, and collaboration
+<h3 align="center">
+Backend & Systems Developer from Morocco 🇲🇦
+</h3>
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mohamedhill&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge)
-
-### Backend
-![Go](https://img.shields.io/badge/-Go%20Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-02569B?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge)
-
-### Databases
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=3BA4F2&center=true&vCenter=true&width=700&lines=Backend+Developer;System+Programming;Go+%7C+Rust+%7C+Java;Clean+Architecture;Always+Learning+Something+New" />
+</p>
 
 ---
 
-## 💡 Interests
+## 🚀 About Me
 
-- System Design
-- Backend Engineering
-- Operating Systems
-- Distributed Systems
-- System Programming
-- API Design
-- Clean Architecture
-- Performance Optimization
+I'm a developer passionate about building scalable backend systems and exploring how software works under the hood.
 
----
-
-## 📌 Featured Projects
-
-- 🖥️ **0-Shell** — Unix-like shell written in Rust using Linux syscalls.
-- 🌐 **Social Network** — Full-stack social platform built with Go, Next.js, SQLite, GraphQL & WebSockets.
-- 💬 **TCP Chat** — Multi-client terminal chat server.
-- 🎨 **Ascii Art Web** — Go web application generating ASCII art.
-- 🚇 **Lem-in** — Pathfinding and graph optimization algorithm.
-- 🛒 **Digital Products Platform** — SaaS platform for selling digital products.
+- 🎓 Talent at **Zone01 Oujda**
+- 💻 Backend Development
+- ⚙️ System Programming
+- 🦀 Learning Rust
+- 🐹 Go Developer
+- 🧠 Interested in System Design & Distributed Systems
+- 🌍 Open to internships & remote opportunities
 
 ---
 
-## 📈 GitHub Stats
+# 💻 Tech Stack
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedhill&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhill&layout=compact&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=go,rust,java,c,js,ts,html,css,react,nextjs,nodejs,docker,linux,git,github,vscode,mysql,sqlite,postgres,bash&perline=10"/>
+
+</p>
 
 ---
 
-## 📫 Connect with Me
+# 🛠 Currently Learning
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-hilli-9978b7373/
-- 📧 mohammedhilli161@gmail.com
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,kubernetes,redis,nginx"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/mohamed-hilli-9978b7373">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mohammedhilli161@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mohamedhill">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Systems > Code > Impact
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=700&color=00FF7F&center=true&vCenter=true&width=900&lines=SYSTEMS+%3E+CODE+%3E+IMPACT" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedhill&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhill&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhill&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mohamedhill/mohamedhill/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedhill&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedhill&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 💭 Favorite Quote
+
+> *"First, solve the problem. Then, write the code."*
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+
+</p>
